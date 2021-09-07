@@ -1,0 +1,14 @@
+# barbet-user 11 RD2A.210605.006 7360941 release-keys
+- manufacturer: 
+- platform: lito
+- codename: barbet
+- flavor: barbet-user
+- release: 11
+- id: RD2A.210605.006
+- incremental: 7360941
+- tags: release-keys
+- fingerprint: google/barbet/barbet:11/RD2A.210605.006/7360941:user/release-keys
+- is_ab: true
+- brand: google
+- branch: barbet-user-11-RD2A.210605.006-7360941-release-keys
+- repo: google_barbet_dump
